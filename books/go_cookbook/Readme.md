@@ -1,0 +1,20 @@
+Go Cookbook
+- getting started recipes
+- module recipes
+- error handling recipes
+- logging recipes
+- function recipes
+- string recipes
+- general input/output recipes
+- csv recipes
+- json recipes
+- binary recipes
+- date and time recipes
+- structs recipes
+- Data structure recipes
+- more data structure recipes
+- image - processing recipes
+- networking recipes
+- web recipes
+- testing recipes
+- benchmarking recipes
