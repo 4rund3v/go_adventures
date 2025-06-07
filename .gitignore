@@ -1,2 +1,24 @@
-builds/*
-*/builds/*
+# Build Directories
+builds/
+**/builds/
+bin/
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go specific
+*.test
+*.out
+
+# IDE specific
+.vscode/
+.idea/
+
+# Dependencies
+vendor/
+
+# Debug files
+debug*
